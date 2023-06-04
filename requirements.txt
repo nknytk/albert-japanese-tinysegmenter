@@ -1,0 +1,4 @@
+tinysegmenter3==0.1.0
+tokenizers==0.13.3
+tensorflow==2.9.3
+transformers==4.28.1
