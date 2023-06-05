@@ -87,7 +87,7 @@ You can choose `wordpiece` or `character` as `subword_tokenizer_type`. Default s
 
 ### Create training data
 
-Note: The training data used to train models was prepared on a local workstation. The corpus was split into 640 files to fit memory consumption into 16GB. The number of corpus files should be set in accordance with your environment. The number is hardcoded at [make_split_corpus.py#16](./make_split_corpus.py#16) and [create_pretraining_data.sh#27](./create_pretraining_data.sh#27).
+Note: The training data used to train models was prepared on a local workstation. The corpus was split into 640 files to fit memory consumption into 16GB. The number of corpus files should be set in accordance with your environment. The number is hardcoded at [make_split_corpus.py#L16](./make_split_corpus.py#L16) and [create_pretraining_data.sh#L27](./create_pretraining_data.sh#L27).
 
 Prepare a Python virtualenv.
 ```bash
