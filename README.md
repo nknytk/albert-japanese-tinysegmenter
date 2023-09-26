@@ -284,4 +284,4 @@ The codes in this repository are distributed under the Apache License 2.0.
 
 ## Acknowledgments
 
-The models are trained with Cloud TPUs provided by [TensorFlow Research Cloud](https://sites.research.google/trc/about/) program.
+The models are trained with Cloud TPUs provided by [TPU Research Cloud](https://sites.research.google/trc/about/) program.
